@@ -1,4 +1,4 @@
-!!GAKUMASU_DICTIONARY
+!!ATOK_TANGO_TEXT_HEADER_1
 !! 人名
 はなみ	花海	固有名詞	
 さき	咲季	固有名詞	
